@@ -1,4 +1,6 @@
 # Black-Viper-Galaxy
+
+[![Join the chat at https://gitter.im/Black-Viper-Galaxy/Lobby](https://badges.gitter.im/Black-Viper-Galaxy/Lobby.svg)](https://gitter.im/Black-Viper-Galaxy/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Managed with Taiga.io](https://img.shields.io/badge/managed%20with-TAIGA.io-709f14.svg)](https://tree.taiga.io/project/trejonh-black-viper-galaxy/ "Managed with Taiga.io")
 <img src="https://slack.blackvipergalaxy.com/badge.svg">
 The next best thing to StackOverflow.
